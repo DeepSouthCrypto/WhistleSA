@@ -1,0 +1,8 @@
+{
+  "name": "WhistleSA",
+  "description": "A secure, offline-first whistleblower platform for reporting corruption in South Africa, featuring AI-powered routing to SIU/HAWKS and an anonymized progress tracker.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
